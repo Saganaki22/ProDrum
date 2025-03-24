@@ -1,4 +1,4 @@
-# ProDrum
+# 🥁 ProDrum
 
 A web-based drum machine and beat sequencer with customizable kits and sample recording capabilities.
 
