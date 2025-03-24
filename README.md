@@ -2,7 +2,8 @@
 
 A web-based drum machine and beat sequencer with customizable kits and sample recording capabilities.
 
-![Prodrum Screenshot](public/prodrum-screenshot.png)
+![image](https://github.com/user-attachments/assets/dc84f428-2c0a-46e3-951f-3996584a8508)
+
 
 ## Features
 
@@ -29,7 +30,7 @@ A web-based drum machine and beat sequencer with customizable kits and sample re
 1. Clone the repository
    ```
    git clone https://github.com/Saganaki22/ProDrum.git
-   cd prodrum
+   cd ProDrum
    ```
 
 2. Install dependencies
